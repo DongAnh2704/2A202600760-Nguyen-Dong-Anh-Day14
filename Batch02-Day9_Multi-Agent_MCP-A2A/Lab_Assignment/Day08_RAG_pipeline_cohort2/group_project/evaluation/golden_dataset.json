@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Hình phạt cho tội tàng trữ trái phép chất ma tuý theo Điều 249 Bộ luật Hình sự?",
+    "expected_answer": "Phạt tù từ 1 đến 5 năm đối với trường hợp tàng trữ từ 1g đến dưới 5g heroin hoặc cocaine, hoặc chất ma tuý khác với khối lượng tương đương.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 249"
+  },
+  {
+    "question": "Luật Phòng chống ma tuý 2021 quy định những hình thức cai nghiện nào?",
+    "expected_answer": "Cai nghiện tự nguyện tại gia đình, cai nghiện tự nguyện tại cộng đồng, cai nghiện tự nguyện tại cơ sở cai nghiện, và cai nghiện bắt buộc tại cơ sở cai nghiện.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Chương V"
+  },
+  {
+    "question": "Danh mục các chất ma tuý thuộc nhóm I theo quy định pháp luật Việt Nam gồm những chất nào?",
+    "expected_answer": "Nhóm I gồm các chất ma tuý tuyệt đối cấm sử dụng trong y học và đời sống, bao gồm heroin, cocaine, methamphetamine, MDMA (ecstasy), cannabis (cần sa), và các chất tương tự.",
+    "expected_context": "Nghị định 57/2022/NĐ-CP, Phụ lục I"
+  },
+  {
+    "question": "Chất ma túy là gì theo định nghĩa của Luật Phòng, chống ma túy?",
+    "expected_answer": "Chất ma túy là các chất gây nghiện, chất hướng thần được quy định trong các danh mục do Chính phủ ban hành.",
+    "expected_context": "Luật Phòng, chống ma túy, Điều 3 Khoản 1"
+  },
+  {
+    "question": "Người sử dụng trái phép chất ma túy là gì theo Luật Phòng, chống ma túy?",
+    "expected_answer": "Người sử dụng trái phép chất ma túy là người tự ý hoặc đồng ý cho người khác đưa chất ma túy vào cơ thể mình mà không được sự cho phép của cơ quan chuyên môn có thẩm quyền.",
+    "expected_context": "Luật Phòng, chống ma túy, Điều 3 Khoản 16"
+  },
+  {
+    "question": "Những hành vi nào bị nghiêm cấm trong phòng chống ma túy theo Điều 4 Luật Phòng, chống ma túy?",
+    "expected_answer": "Trồng cây có chứa chất ma túy; sản xuất, tàng trữ, vận chuyển, bảo quản, mua bán, phân phối, giám định, xử lý, trao đổi, xuất khẩu, nhập khẩu trái phép chất ma túy; sử dụng, tổ chức sử dụng trái phép chất ma túy; xúi giục, cưỡng bức, rủ rê, dụ dỗ, lôi kéo người khác sử dụng trái phép chất ma túy.",
+    "expected_context": "Luật Phòng, chống ma túy, Điều 4"
+  },
+  {
+    "question": "Thời hạn quản lý người sử dụng trái phép chất ma túy từ đủ 18 tuổi trở lên là bao lâu?",
+    "expected_answer": "Thời hạn quản lý người sử dụng trái phép chất ma túy là 01 năm đối với người sử dụng từ đủ 18 tuổi trở lên kể từ ngày xác định được hành vi sử dụng gần nhất.",
+    "expected_context": "Luật Phòng, chống ma túy, Điều 24 Khoản 2"
+  },
+  {
+    "question": "Cơ quan nào có thẩm quyền xét nghiệm chất ma túy trong cơ thể?",
+    "expected_answer": "Cơ quan có thẩm quyền xét nghiệm ma túy bao gồm cơ quan Y tế và cơ quan Công an.",
+    "expected_context": "Luật Phòng, chống ma túy, Điều 23 Khoản 2"
+  },
+  {
+    "question": "Cơ sở cai nghiện ma túy công lập được chia thành những phân khu nào để quản lý người nghiện?",
+    "expected_answer": "Gồm khu lưu trú tạm thời đối với người chờ xác định tình trạng nghiện/lập hồ sơ, khu dành riêng cho người cai nghiện bắt buộc, và khu dành riêng cho người cai nghiện tự nguyện.",
+    "expected_context": "Luật Phòng, chống ma túy, Điều 33 Khoản 2"
+  },
+  {
+    "question": "Trong các khu của cơ sở cai nghiện bắt buộc/tự nguyện phải bố trí các khu vực riêng biệt cho các đối tượng nào?",
+    "expected_answer": "Phải bố trí khu vực riêng biệt đối với người từ đủ 12 tuổi đến dưới 18 tuổi, phụ nữ, người có bệnh truyền nhiễm nguy hiểm, và người có hành vi gây rối trật tự.",
+    "expected_context": "Luật Phòng, chống ma túy, Điều 33 Khoản 3"
+  },
+  {
+    "question": "Thời hạn quản lý người sử dụng trái phép chất ma túy dưới 18 tuổi là bao lâu?",
+    "expected_answer": "Thời hạn quản lý người sử dụng trái phép chất ma túy dưới 18 tuổi là 06 tháng kể từ ngày xác định được hành vi sử dụng gần nhất.",
+    "expected_context": "Luật Phòng, chống ma túy, Điều 24 Khoản 2"
+  },
+  {
+    "question": "Ba tội danh về ma túy nào được thực hiện phổ biến nhất từ năm 2018 đến năm 2023 tại Việt Nam?",
+    "expected_answer": "Tội tàng trữ trái phép chất ma túy (Điều 249 BLHS 2015), Tội vận chuyển trái phép chất ma túy (Điều 250 BLHS 2015) và Tội mua bán trái phép chất ma túy (Điều 251 BLHS 2015).",
+    "expected_context": "Tạp chí Khoa học Pháp lý Việt Nam, TS Phạm Thái & ThS Kim Nguyễn Hồng Minh"
+  },
+  {
+    "question": "Hoạt chất ma túy nào được tiêu thụ nhiều nhất ở khu vực Đông Nam Á theo Báo cáo năm 2023 của Liên hợp quốc?",
+    "expected_answer": "Methamphetamine là hoạt chất ma túy được tiêu thụ nhiều nhất ở khu vực Đông Nam Á.",
+    "expected_context": "UNODC, World Drug Report 2023"
+  },
+  {
+    "question": "Tỷ lệ người nghiện sử dụng heroin tại Việt Nam theo thống kê thời điểm năm 2014 là bao nhiêu phần trăm?",
+    "expected_answer": "Tỷ lệ người nghiện sử dụng heroin tại Việt Nam thời điểm năm 2014 là 80,33%.",
+    "expected_context": "Bộ Công an, Báo cáo số 44/BC-BCA-C41"
+  },
+  {
+    "question": "Người nghiện ma túy có trách nhiệm đăng ký cai nghiện tự nguyện trong thời hạn bao lâu kể từ ngày xác định tình trạng nghiện?",
+    "expected_answer": "Trong thời hạn 15 ngày làm việc kể từ ngày cơ quan y tế xác định tình trạng nghiện thì người nghiện phải đăng ký cai nghiện tự nguyện.",
+    "expected_context": "Luật Phòng, chống ma túy, Điều 30 Khoản 1 Điểm c"
+  },
+  {
+    "question": "Chuyên án ma túy điển hình nào năm 2023 thu giữ 1,3 tấn ketamin thành phẩm phối hợp giữa Việt Nam và Lào?",
+    "expected_answer": "Chuyên án 103H tháng 8/2023, do nghi phạm người Đài Loan cầm đầu, thu giữ 1,3 tấn ketamin thành phẩm và hơn 10.000 điếu thuốc lá điện tử.",
+    "expected_context": "Báo cáo Hội nghị song phương Bộ Công an Việt Nam và Bộ Công an Lào, Chuyên án 103H"
+  }
+]
