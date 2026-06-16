@@ -1,0 +1,38 @@
+[DOC_HR_001] LEAVE POLICY (CHÍNH SÁCH NGHỈ PHÉP)
+Nhân viên chính thức được hưởng 12 ngày nghỉ phép năm có hưởng lương. Phép năm chưa sử dụng được chuyển tối đa 5 ngày sang năm kế tiếp và phải sử dụng trước ngày 31/3 của năm đó. Xin nghỉ phép từ 3 ngày trở lên phải báo trước ít nhất 5 ngày làm việc và được quản lý trực tiếp phê duyệt. Nghỉ phép đột xuất do ốm đau phải nộp giấy xác nhận của y tế trong vòng 48 giờ sau khi quay lại làm việc.
+
+[DOC_HR_002] WORKING HOURS & REMOTE WORK (GIỜ LÀM VIỆC & LÀM VIỆC TỪ XA)
+Giờ làm việc tiêu chuẩn từ 8:30 đến 17:30, từ thứ Hai đến thứ Sáu, nghỉ trưa 1 tiếng từ 12:00 đến 13:00. Công ty áp dụng chính sách Hybrid Work, nhân viên được làm việc từ xa tối đa 2 ngày mỗi tuần, đăng ký vào đầu tuần và phải đảm bảo trực tuyến trên Slack trong khung giờ làm việc. Riêng nhân viên đang trong thời gian thử việc 2 tháng không được áp dụng chính sách làm việc từ xa.
+
+[DOC_IT_001] PASSWORD COMPLEXITY & MFA (MẬT KHẨU VÀ XÁC THỰC NHIỀU YẾU TỐ)
+Tất cả tài khoản hệ thống phải sử dụng mật khẩu mạnh: tối thiểu 12 ký tự, bao gồm chữ hoa, chữ thường, số và ký tự đặc biệt. Mật khẩu phải được thay đổi định kỳ mỗi 90 ngày và không được trùng với 5 mật khẩu gần nhất. Xác thực 2 lớp (MFA) là bắt buộc đối với tất cả các dịch vụ Email, Slack, GitHub và VPN công ty. Việc tắt MFA mà không có sự đồng ý của phòng IT sẽ bị kỷ luật.
+
+[DOC_IT_002] SOFTWARE INSTALLATION (CÀI ĐẶT PHẦN MỀM)
+Nhân viên chỉ được cài đặt phần mềm có trong danh mục được phê duyệt (Approved Software List) trên máy tính công ty cung cấp. Cấm tự ý cài đặt các phần mềm bẻ khóa (crack), phần mềm đào tiền ảo, hoặc game. Yêu cầu cài đặt phần mềm mới ngoài danh mục phải gửi ticket qua hệ thống Jira IT Support và đợi phê duyệt từ Giám đốc Công nghệ (CTO) trong vòng 3 ngày làm việc.
+
+[DOC_SEC_001] DATA CLASSIFICATION (PHÂN LOẠI DỮ LIỆU)
+Dữ liệu của công ty được chia làm 4 cấp độ bảo mật: Public (Công khai), Internal (Nội bộ), Confidential (Mật) và Restricted (Tối mật). Thông tin lương nhân viên, mã nguồn phần mềm dự án và dữ liệu khách hàng thuộc nhóm Restricted. Mọi hành vi chia sẻ tài liệu Restricted ra ngoài mạng lưới nội bộ mà không có mã hóa đầu cuối sẽ bị đình chỉ công tác ngay lập tức để điều tra.
+
+[DOC_SEC_002] PHISHING & SECURITY INCIDENTS (SỰ CỐ AN NINH VÀ PHISHING)
+Khi phát hiện email nghi ngờ giả mạo (Phishing), nhân viên tuyệt đối không click vào link hoặc tải file đính kèm, phải nhấn nút "Report Phishing" trên Outlook hoặc chuyển tiếp email đó đến address phishing-report@company.com. Trong trường hợp nghi ngờ máy tính bị nhiễm phần mềm độc hại, nhân viên phải ngắt kết nối Wifi/Ethernet ngay lập tức và mang thiết bị đến phòng IT Support tại tầng 4.
+
+[DOC_SEC_003] CLEAN DESK POLICY & VISITOR ACCESS (BÀN LÀM VIỆC SẠCH & KHÁCH GHÉ THĂM)
+Chính sách Bàn làm việc sạch yêu cầu nhân viên phải khóa màn hình máy tính (phím tắt Win+L hoặc Ctrl+Cmd+Q) khi rời khỏi vị trí làm việc quá 5 phút. Tài liệu giấy chứa thông tin Confidential hoặc Restricted phải được cất vào tủ có khóa trước khi ra về. Khách ghé thăm văn phòng phải đăng ký tại lễ tân, đeo thẻ Visitor và phải có nhân viên công ty đi kèm trong suốt thời gian ở văn phòng.
+
+[DOC_FIN_001] TRAVEL EXPENSE REIMBURSEMENT (THANH TOÁN CHI PHÍ ĐI LẠI)
+Chi phí công tác được thanh toán dựa trên hóa đơn thực tế hợp lệ. Hạn mức khách sạn tối đa đối với cấp nhân viên là 1.200.000 VND/đêm tại các thành phố trực thuộc trung ương (Hà Nội, TP.HCM, Đà Nẵng) và 800.000 VND/đêm tại các tỉnh thành khác. Chi phí ăn uống tối đa là 300.000 VND/ngày. Tất cả yêu cầu thanh toán phải nộp kèm hóa đơn VAT đỏ trong vòng 10 ngày làm việc kể từ khi kết thúc chuyến công tác.
+
+[DOC_FIN_002] PURCHASE APPROVAL FLOW (QUY TRÌNH PHÊ DUYỆT MUA SẮM)
+Mọi hoạt động mua sắm thiết bị hoặc dịch vụ cho phòng ban phải tuân theo quy trình phê duyệt: chi phí dưới 5.000.000 VND cần phê duyệt của Trưởng phòng; chi phí từ 5.000.000 VND đến dưới 50.000.000 VND cần phê duyệt của Giám đốc Khối; chi phí từ 50.000.000 VND trở lên phải có sự đồng ý bằng văn bản của Tổng Giám đốc (CEO) và Giám đốc Tài chính (CFO).
+
+[DOC_FIN_003] ANNUAL BONUS & PERFORMANCE REVIEW (THƯỞNG THƯỜNG NIÊN & ĐÁNH GIÁ HIỆU SUẤT)
+Thưởng cuối năm (tháng lương thứ 13) được chi trả vào kỳ lương tháng 1 hàng năm cho toàn bộ nhân viên có thâm niên làm việc từ 6 tháng trở lên tính đến ngày 31/12. Mức thưởng hiệu suất (Performance Bonus) bổ sung sẽ dựa trên kết quả đánh giá OKR cuối năm với các hệ số: Đạt xuất sắc (hệ số 1.5 - 2.0 tháng lương), Đạt yêu cầu (hệ số 1.0 tháng lương), Cần cải thiện (hệ số 0.5 tháng lương), và Không đạt (không được thưởng hiệu suất).
+
+[DOC_IT_003] DATA BACKUP POLICY (CHÍNH SÁCH SAO LƯU DỮ LIỆU)
+Nhân viên có trách nhiệm sao lưu toàn bộ dữ liệu công việc quan trọng lên Google Drive doanh nghiệp được liên kết với email công ty. Hệ thống máy chủ local của công ty được cấu hình tự động sao lưu định kỳ vào lúc 02:00 sáng hàng ngày. Bản sao lưu tuần được lưu trữ ngoại vi (Off-site cloud storage) tại Singapore và bản sao lưu tháng được lưu trữ vật lý dạng băng từ tại két an toàn của phòng IT.
+
+[DOC_HR_003] PROBATION & NOTICE PERIOD (THỬ VIỆC VÀ THỜI GIAN BÁO TRƯỚC)
+Thời gian thử việc tiêu chuẩn cho vị trí kỹ sư là 2 tháng với mức lương thử việc tối thiểu bằng 85% lương chính thức. Trong thời gian thử việc, mỗi bên có quyền chấm dứt hợp đồng mà không cần báo trước và không phải bồi thường. Sau khi ký hợp đồng chính thức, thời gian báo trước khi nghỉ việc là 30 ngày đối với hợp đồng xác định thời hạn và 45 ngày đối với hợp đồng không xác định thời hạn.
+
+[DOC_HR_004] CODE OF CONDUCT & DRESS CODE (QUY TẮC ỨNG XỬ & TRANG PHỤC)
+Nhân viên phải tuân thủ quy tắc ứng xử lịch sự, tôn trọng đồng nghiệp và khách hàng. Trang phục làm việc từ thứ Hai đến thứ Năm yêu cầu lịch sự (Business Casual: áo sơ mi/polo có cổ, quần tây/jeans tối màu, không mặc quần đùi hoặc đi dép lê). Thứ Sáu được mặc trang phục tự do nhưng phải đảm bảo kín đáo, lịch sự. Việc vi phạm quy định trang phục quá 3 lần/tháng sẽ bị lập biên bản kỷ luật cảnh cáo.
